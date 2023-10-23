@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['therefore-i-blog-fsf.herokuapp.com', 'localhost', 'therefore-i-blog-fsf-bb7c614be2ab.herokuapp.com']
+ALLOWED_HOSTS = ['therefore-i-blog-fsf.herokuapp.com', '8000-emmacadavra-thereforeib-toi93kwnmhy.ws-eu105.gitpod.io', 'therefore-i-blog-fsf-bb7c614be2ab.herokuapp.com']
 
 
 # Application definition
